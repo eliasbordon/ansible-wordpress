@@ -1,0 +1,6 @@
+---
+root_password: elias1234
+db_name: wordpress_db
+db_user: wordpress_user
+db_password: 1234elias
+password_validation_policy: 1 
